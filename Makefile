@@ -396,3 +396,5 @@ tests_dir := $(cur_dir)/tests
 
 .PHONY: tests
 tests: framework 
+
+endif
